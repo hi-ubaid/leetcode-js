@@ -36,4 +36,4 @@ Then use the following command to run a file:
 
 To run any of the code in Leetcode environment, you'll need to have to remove console.log statements and return directly.
 
-*** Happy Coding 😉 ***
+***Happy Coding 😉***
