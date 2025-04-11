@@ -30,3 +30,7 @@ Then use the following command to run a file:
 
 1. node 1.js
 2. Replace 1.js with the file name of the task you want to run.
+
+## 🚀 How to Run the Code in LeetCode environment
+
+To run any of the code in Leetcode environment, you'll need to have to remove console.log statements and return directly.
