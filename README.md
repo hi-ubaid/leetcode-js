@@ -14,6 +14,7 @@ To run any of the JavaScript files, you'll need to have **Node.js** installed. F
 
 - Download and install Node.js from the official website: [https://nodejs.org](https://nodejs.org)
 - Verify the installation by running the following command in your terminal:
+- **node -v**
 
 ### ✅ Step 2: Open the Repo in VS Code
 
@@ -34,3 +35,5 @@ Then use the following command to run a file:
 ## 🚀 How to Run the Code in LeetCode environment
 
 To run any of the code in Leetcode environment, you'll need to have to remove console.log statements and return directly.
+
+*** Happy Coding 😉 ***
