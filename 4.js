@@ -20,7 +20,7 @@
 
 //Solution
 var createCounter = function(init) {
-    var count = init;                   //store the initial value in a var so it can be reset without affecting result
+    var count = init;                                //store the initial value in a var so it can be reset without affecting result
     var increment = function() {
         return console.log(++init);                  //increment the last init value
     }
@@ -28,8 +28,8 @@ var createCounter = function(init) {
         return console.log(--init);                  //decrement the last init value
     }
     var reset = function() {
-        init = count;                   //sets init value to its initial value which was stored in count var
-        return console.log(init);                     //return the initial value
+        init = count;                                //sets init value to its initial value which was stored in count var
+        return console.log(init);                    //return the initial value
     }
     return {
         increment,
