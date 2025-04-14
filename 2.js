@@ -15,7 +15,7 @@
 var createCounter = function(n) {
     
     return function() {
-        return console.log(n++);
+        return console.log(n++);    // it returns n then increment its value by 1
     };
 };
 

@@ -16,7 +16,7 @@
 var createHelloWorld = function() {
     
     return function(...args) {
-        return console.log("Hello World");
+        return console.log("Hello World");  //return the string and do not get confused with arguments passed
     }
 };
 
